@@ -1913,4 +1913,3 @@ https://docs.google.com/forms/d/14xQQ6VAIwbGYkSFgcdU-jA9KaoRxAGWF0PSA0XXR_m8/vie
 
 
 canaux slack : evenements-emploi, jai-trouvé
-
